@@ -1,0 +1,6 @@
+@LeaningNetCoreAPI_HostAddress = http://localhost:5112
+
+GET {{LeaningNetCoreAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
